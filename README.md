@@ -1,1 +1,1 @@
-# LXQt
+# LXQt x Archinstall
