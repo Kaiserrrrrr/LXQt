@@ -1,4 +1,4 @@
-# LXQt x Archinstall
+# Installation
 ```bash
 archinstall && arch-chroot /mnt /bin/bash -c "$(curl -fsSL https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LxQT/install.sh)"
 ```
