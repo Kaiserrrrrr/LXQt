@@ -14,6 +14,9 @@
 - [kcalc](https://github.com/KDE/kcalc)
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
+## 📜 Requirements 
+- **≥1GB RAM**
+- **≥4GB STORAGE**
 ## 🚀 Installation (Post Archinstall)
 ```bash
 curl -fsSL https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh | sh
