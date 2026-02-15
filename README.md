@@ -1,11 +1,11 @@
 # 🪽 LXQt 
 **Another way to install LXQt for Arch Linux**
 ## 👜 Bundled With 
-### Native Packages
+### 🕊️ Native Packages
 - [lximage-qt](https://github.com/lxqt/lximage-qt)
 - [pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt)
 - [qterminal](https://github.com/lxqt/qterminal)
-### 3rd Party Packages
+### 🔮 3rd Party Packages
 - [falkon](https://github.com/KDE/falkon)
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [featherpad](https://github.com/tsujan/FeatherPad) 
