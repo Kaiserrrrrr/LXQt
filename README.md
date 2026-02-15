@@ -13,7 +13,7 @@
 - [kcalc](https://github.com/KDE/kcalc)
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
-## 🚀 Installation (Post [Archinstall](https://github.com/archlinux/archinstall))
+## 🚀 Installation ([Post Archinstall](https://github.com/archlinux/archinstall))
 ```bash
 curl -fsSL https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh | sh
 ```
