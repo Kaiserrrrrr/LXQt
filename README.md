@@ -2,10 +2,10 @@
 **Another way to install LXQt for Arch Linux**
 ## 👜 Bundled with 
 - [Falkon](https://github.com/KDE/falkon)
-- [NeoVim](https://github.com/neovim/neovim)
-- [Featherpad](https://github.com/tsujan/FeatherPad)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [Featherpad](https://github.com/tsujan/FeatherPad) 
 - [Htop](https://github.com/htop-dev/htop)
+- [NeoVim](https://github.com/neovim/neovim)
 ## 🚀 Installation
 ```bash
 curl -fsSL https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh | sh
