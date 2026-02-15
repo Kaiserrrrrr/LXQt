@@ -1,6 +1,8 @@
 # 🪽 LXQt 
 **Another way to install LXQt for Arch Linux**
-## 👜 Bundled with 
+## 👜 Bundled With 
+### Native Packages
+### 3rd Party Packages
 - [Falkon](https://github.com/KDE/falkon)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [Featherpad](https://github.com/tsujan/FeatherPad) 
