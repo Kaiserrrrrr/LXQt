@@ -15,7 +15,7 @@
 - [mpv](https://github.com/mpv-player/mpv)
 - [neovim](https://github.com/neovim/neovim)
 ## 📜 Recommended Requirements 
-- **Processor: 64-bit (x86-64) CPU**
+- **Processor: 64-bit (x86-64) 2 CORE CPU**
 - **RAM: ≥2GB**
 - **STORAGE: ≥8GB**
 ## 🚀 Installation (Post Archinstall)
