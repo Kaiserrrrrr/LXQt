@@ -31,7 +31,7 @@ The script performs a real-time system audit to tailor the installation to your 
 * **Image Viewer:** [lximage-qt](https://github.com/lxqt/lximage-qt)
 * **Desktop:** Notification daemon, Power Management, Global Keys, and Runner.
 
-### 🔮 Curated External Apps
+### 🔮 External Apps
 | Category | Application | Description |
 | :--- | :--- | :--- |
 | **Browser** | [Falkon](https://github.com/KDE/falkon) | Lightweight Qt-based web browsing. |
