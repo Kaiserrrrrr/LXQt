@@ -39,7 +39,7 @@ The script performs a real-time system audit to tailor the installation to your 
 | **Editor** | [Featherpad](https://github.com/tsujan/FeatherPad) | Lightweight GUI-based text editing. |
 | **Media** | [MPV](https://github.com/mpv-player/mpv) | High-performance, minimalist video playback. |
 | **Monitor** | [Htop](https://github.com/htop-dev/htop) | Real-time system resource monitoring. |
-| **Eye Candy** | [Picom](https://github.com/yshui/picom) | X11 compositor for transparency and shadows. |
+| **Compositor** | [Picom](https://github.com/yshui/picom) | X11 compositor for transparency and shadows. |
 
 ## 📜 System Requirements
 | Component | Minimum | Recommended |
