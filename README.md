@@ -53,5 +53,5 @@ The script performs a real-time system audit to tailor the installation to your 
 Run this command after using Archinstall (as a user with `sudo` privileges). 
 
 ```bash
-curl -fsSL [https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh](https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh) | sh
+curl -fsSL https://cdn.jsdelivr.net/gh/Kaiserrrrrr/LXQt/install.sh | sh
 ```
