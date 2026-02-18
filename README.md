@@ -3,7 +3,7 @@
 
 ## ✨ Key Features
 
-* **Seamless Transition: ** Effortlessly moves from a bare-bones Arch base to a polished, fully functional desktop environment.
+* **Seamless Transition:** Effortlessly moves from a bare-bones Arch base to a polished, fully functional desktop environment.
 
 * **Dynamic Hardware Auditing:** Automatically detects your specific system architecture during the install process.
 
