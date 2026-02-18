@@ -47,7 +47,7 @@ The script performs a real-time system audit to tailor the installation to your 
 | **Processor** | 64-bit x86-64 | Dual Core or better |
 | **RAM** | 1GB | ≥2GB |
 | **Storage** | 4GB | ≥8GB |
-| **Architecture** | Arch Linux | Multilib enabled (Auto-handled) |
+| **Architecture** | Arch Linux | Post-Archinstall |
 
 ## 🚀 Installation (Post-Archinstall)
 Run this command after using Archinstall (as a user with `sudo` privileges). 
