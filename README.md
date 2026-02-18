@@ -11,9 +11,7 @@
 
 * **GPU Driver Stack:** Full support for Intel, AMD, and NVIDIA (including proprietary drivers and 32-bit `multilib` compatibility).
 
-* **Universal Firmware:**
-
-Out-of-the-box support for laptop-specific needs, including Broadcom Wi-Fi and Sound Open Firmware (SOF).
+* **Universal Firmware:** Out-of-the-box support for laptop-specific needs, including Broadcom Wi-Fi and Sound Open Firmware (SOF).
 
 * **Cross-Platform Compatibility:** Optimized for everything from MacBooks and Chromebooks to high-end custom workstations.
 
