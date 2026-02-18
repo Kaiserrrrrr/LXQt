@@ -1,5 +1,5 @@
 # 🪽 LXQt 
-**Another way to install LXQt for Arch Linux**
+**Another way to install LXQt for Arch Linux across every platform**
 ## 👜 Bundled With 
 **🕊️ Native Apps**
 - [lximage-qt](https://github.com/lxqt/lximage-qt)
