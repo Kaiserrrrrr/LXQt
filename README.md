@@ -15,7 +15,7 @@
 
 * **Cross-Platform Compatibility:** Optimized for everything from MacBooks and Chromebooks to high-end custom workstations.
 
-## 🛠️ Intelligent Hardware Coverage
+## 🛠️ Hardware Coverage
 The script performs a real-time system audit to tailor the installation to your specific machine:
 
 * **Processor Support:** Detects Intel vs. AMD to apply correct `ucode` security patches and performance optimizations.
