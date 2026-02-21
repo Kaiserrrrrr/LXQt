@@ -37,9 +37,10 @@ The script performs a real-time system audit to tailor the installation to your 
 | **Browser** | [Falkon](https://github.com/KDE/falkon) | Lightweight Qt-based web browsing. |
 | **Editor** | [Neovim](https://github.com/neovim/neovim) | Professional CLI-based text editing. |
 | **Editor** | [Nano](https://savannah.gnu.org/projects/nano) | Lightweight CLI-based text editing. |
-| **Utility** | [BC](https://github.com/gavinhoward/bc) | Lightweight CLI-based calculator. |
-| **Version Control** | [GIT](https://git-scm.com/) | Essential distributed version control system. |
+| **Utility** | [Bc](https://github.com/gavinhoward/bc) | Lightweight CLI-based calculator. |
+| **Version Control** | [Git](https://git-scm.com/) | Essential distributed version control system. |
 | **Media** | [MPV](https://github.com/mpv-player/mpv) | High-performance, minimalist video playback. |
+| **Monitor** | [Ncdu](https://github.com/konosubakonoakua/zig-ncdu) | Disk usage analyzer with an ncurses interface. |
 | **Monitor** | [Htop](https://github.com/htop-dev/htop) | Real-time system resource monitoring. |
 | **Compositor** | [Picom](https://github.com/yshui/picom) | X11 compositor for transparency and shadows. |
 
