@@ -1,18 +1,5 @@
 #!/bin/bash
 
-
-# /$$       /$$   /$$  /$$$$$$    /$$    
-# | $$      | $$  / $$ /$$__  $$  | $$    
-# | $$      |  $$/ $$/| $$  \ $$ /$$$$$$  
-# | $$       \  $$$$/ | $$  | $$|_  $$_/  
-# | $$        >$$  $$ | $$  | $$  | $$    
-# | $$       /$$/\  $$| $$/$$ $$  | $$ /$$
-# | $$$$$$$$| $$  \ $$|  $$$$$$/  |  $$$$/
-# |________/|__/  |__/ \____ $$$   \___/  
-#                           \__/          
-
-
-
 # 1. Enable Performance Mode
 export MAKEFLAGS="-j$(nproc)" && echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor >/dev/null && (grep -q "NoExtract" /etc/pacman.conf || sudo sed -i '/^#NoExtract  =/c\NoExtract  = usr/share/help/* usr/share/man/* usr/share/doc/* usr/share/info/* usr/share/gtk-doc/* usr/share/locale/*' /etc/pacman.conf) && echo -e "\e[32m[✓] Performance Mode Activated\e[0m"
 
